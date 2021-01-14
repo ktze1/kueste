@@ -83,9 +83,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiRoom",
+                 "name":"openWebsite",
                  "type":"string",
-                 "value":"Gewaechshaus"
+                 "value":"https:\/\/www.oncoo.de\/t\/0vn6"
                 }],
          "type":"tilelayer",
          "visible":true,
