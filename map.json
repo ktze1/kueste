@@ -93,6 +93,12 @@
          "id":9,
          "name":"Baumhaus",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/cryptpad.fr\/kanban\/#\/2\/kanban\/edit\/8xv4yPuaK0L+JtUO92zu29Iw\/"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
