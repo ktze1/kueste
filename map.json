@@ -233,6 +233,12 @@
  "nextlayerid":22,
  "nextobjectid":1,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"openWebsite",
+         "type":"string",
+         "value":"https:\/\/padlet.com\/NDC_RLP\/ovsxrxzwmq85ui69"
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.4.3",
  "tileheight":32,
