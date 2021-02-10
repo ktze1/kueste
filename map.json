@@ -165,6 +165,12 @@
          "id":19,
          "name":"Kanban",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/padlet.com\/NDC_RLP\/ovsxrxzwmq85ui69"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
